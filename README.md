@@ -6,7 +6,7 @@ This is a sample of how to use Cloud Pub/Sub from the pure functional web app la
 
 This is UNOFFICIAL and EXPERIMENTAL, and not recommended at this time. _Caveat emptor!_
 
-This will (probably) eventually become part of a blog post.
+This is part of a Medium blog post: https://feywind.medium.com/using-cloud-pub-sub-on-node-js-from-elm-2a769731c097
 
 ## What is it?
 
